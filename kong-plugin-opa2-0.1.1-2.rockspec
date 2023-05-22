@@ -17,14 +17,7 @@ dependencies = {
    "lua-resty-http",
    "lua-resty-jwt",
 }
-test_dependencies = {
-   "luacov",
-   "luacheck",
-}
-test = {
-   type = "busted",
-   flags = { "-o", "gtest" },
-}
+
 build = {
    type = "builtin",
    modules = {
