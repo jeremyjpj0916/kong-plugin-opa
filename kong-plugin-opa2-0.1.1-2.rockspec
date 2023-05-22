@@ -10,8 +10,7 @@ description = {
    detailed = [[
       see https://github.com/open-policy-agent/contrib/tree/master/kong_plugin_opa for more information
    ]],
-   homepage = "https://github.com/open-policy-agent/contrib/tree/master/kong_plugin_opa",
-   issues_url = "https://github.com/open-policy-agent/contrib/issues",
+   homepage = "https://github.com/open-policy-agent/contrib/tree/master/kong_plugin_opa"
 }
 dependencies = {
    "lua-cjson",
