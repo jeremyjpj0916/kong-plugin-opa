@@ -1,7 +1,7 @@
 package = "kong-plugin-opa2"
 version = "0.1.1-2"
 source = {
-   url = "git+https://github.com/open-policy-agent/contrib.git"
+   url = "git+https://github.com/jeremyjpj0916/kong-plugin-opa.git"
 }
 
 description = {
