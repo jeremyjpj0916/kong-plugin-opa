@@ -1,4 +1,3 @@
-rockspec_format = "3.0"
 package = "kong-plugin-opa2"
 version = "0.1.1-2"
 source = {
